@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I laugh at anything (even if it's a video of falling bread)
 
 Comitando pela 1° vez usando do GIT por linha de comando
+texte
